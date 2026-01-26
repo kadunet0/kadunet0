@@ -1,6 +1,6 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [CARLOS CABRAL] 👋
 
-* 🎓 Estudante de **Sistemas de Informação** na [Sua Instituição]
+* 🎓 Bacharel de **Sistemas de Informação** 
 * 💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real
 * 🚀 Sempre em busca de desafios que envolvam inovação, aprendizado contínuo e entrega de valor
 
