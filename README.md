@@ -49,17 +49,16 @@
 
 ## 📌 Experiência e Projetos
 
-🛠️ **Estágio em Engenharia de Software**  
-Auxílio na análise de sistemas, manutenção e otimização de rotinas.
-
-🐾 **Sistema de Gerenciamento de Animais**  
-CRUD completo desenvolvido com **Spring Boot**.
+💼 **Estágio em Engenharia de Software**  
+Atuação no apoio à análise de sistemas, manutenção de aplicações e otimização de rotinas, com foco em boas práticas de desenvolvimento.
 
 🎓 **SimplyInvite**  
-Projeto acadêmico para gestão de alunos.
+Sistema acadêmico de gestão de alunos, com funcionalidades de autenticação e controle de acesso.  
+🔗 https://github.com/kadunet0/SimplyInvite
 
-📊 **Análise de Dados**  
-Uso de **Excel e Power BI** para controle administrativo.
+🏋️ **FitnessApp**  
+Aplicação voltada ao gerenciamento de treinos e acompanhamento de atividades físicas.  
+🔗 https://github.com/kadunet0/-FitnessApp
 
 ---
 
