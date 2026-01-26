@@ -1,11 +1,11 @@
-# Olá, eu sou Carlos Cabral 👋
+# Olá, eu sou Carlos Cabral 
 
-🎓 Estudante de **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
+🎓 Bacharel em **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
 💼 **Estagiário de Engenharia de Software**, com foco em análise de sistemas e otimização de rotinas  
 🚀 Desenvolvedor Júnior com foco em **Java, Spring Boot e Python**  
 🌍 Inglês (CNA, 2016–2020) e entusiasta de metodologias ágeis  
 
-> ⚡ *“Tecnologia é sobre pessoas. Quanto mais aprendemos, mais conseguimos transformar vidas.”*
+> ⚡ “Tecnologia existe para servir pessoas. Aprender continuamente é o que nos permite gerar impacto real.”
 
 <div>
   <a href="https://www.linkedin.com/in/carlos-neto-94ab291b3/" target="_blank">
