@@ -1,4 +1,4 @@
-# Olá, eu sou Kadu 👋
+# Olá, eu sou Jonas Silva 👋
 
 * 🎓 Estudante de **Sistemas de Informação** na UNINASSAU
 * 💼 Apaixonado por desenvolvimento de software, tecnologia e soluções que geram impacto real
@@ -48,29 +48,12 @@
 
 ---
 
-## 📖 Atualmente aprendendo
-
-* Arquitetura de Microsserviços
-* Integração com APIs RESTful
-* Testes Automatizados (JUnit / Jest)
-
----
-
 ## ⚙️ Atuação Técnica
 
 ```typescript
-interface TechnicalExpertise {
-  architecture: 'Sistemas Distribuídos' | 'Microsserviços';
-  development: 'Full-Stack' | 'Cloud-Native Applications';
-  infra: ['AWS EC2/S3', 'Docker Containers', 'CI/CD Pipelines'];
-  databases: ['PostgreSQL', 'MySQL', 'MongoDB'];
-  monitoring: 'Grafana' | 'CloudWatch';
-}
-
-const currentFocus: TechnicalExpertise = {
+const currentFocus = {
   architecture: 'Microsserviços',
   development: 'Full-Stack',
-  infra: ['AWS EC2/S3', 'Docker Containers', 'CI/CD Pipelines'],
-  databases: ['PostgreSQL', 'MongoDB'],
-  monitoring: 'Grafana'
+  infra: ['Docker Containers', 'CI/CD Pipelines'],
+  databases: ['PostgreSQL', 'MongoDB']
 };
