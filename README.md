@@ -1,7 +1,7 @@
 # Olá, eu sou Carlos Cabral 
 
 🎓 Bacharel em **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
-💼 **Estagiário de Engenharia de Software**, com foco em análise de sistemas e otimização de rotinas  
+💼 **Estagiário de Sistemas de Informação**, com foco em análise de sistemas e otimização de rotinas  
 🚀 Desenvolvedor Júnior com foco em **Java, Spring Boot e Python**  
 🌍 Inglês (CNA, 2016–2020) e entusiasta de metodologias ágeis  
 
@@ -49,7 +49,7 @@
 
 ## 📌 Experiência e Projetos
 
-💼 **Estágio em Engenharia de Software**  
+💼 **Estágio em Sistemas de Informação**  
 Atuação no apoio à análise de sistemas, manutenção de aplicações e otimização de rotinas, com foco em boas práticas de desenvolvimento.
 
 🎓 **SimplyInvite**  
