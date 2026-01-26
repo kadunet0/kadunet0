@@ -1,16 +1,22 @@
 # Olá, eu sou Carlos Cabral 👋
 
-* [cite_start]🎓 Estudante de **Sistemas de Informação** na UNINASSAU (2022 - 2025) [cite: 20]
-* [cite_start]💼 **Estagiário de Engenharia de Software** focado em otimização de rotinas [cite: 15, 18]
-* [cite_start]🚀 Desenvolvedor Júnior com foco em **Java, Spring Boot e Python** [cite: 8, 23]
-* [cite_start]🌍 Inglês (CNA, 2016-2020) e entusiasta de metodologias ágeis [cite: 9, 20]
+🎓 Estudante de **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
+💼 **Estagiário de Engenharia de Software**, com foco em análise de sistemas e otimização de rotinas  
+🚀 Desenvolvedor Júnior com foco em **Java, Spring Boot e Python**  
+🌍 Inglês (CNA, 2016–2020) e entusiasta de metodologias ágeis  
 
-> ⚡ "Tecnologia é sobre pessoas. Quanto mais aprendemos, mais conseguimos transformar vidas."
+> ⚡ *“Tecnologia é sobre pessoas. Quanto mais aprendemos, mais conseguimos transformar vidas.”*
 
 <div>
-  <a href="https://www.linkedin.com/in/carlos-neto-94ab291b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/kadunet0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:carlosmelocabral2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/carlos-neto-94ab291b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/kadunet0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:carlosmelocabral2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
@@ -18,7 +24,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadunet0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadunet0&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadunet0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -43,21 +49,26 @@
 
 ## 📌 Experiência e Projetos
 
-* [cite_start]🛠️ **Estágio em Engenharia de Software:** Auxílio na análise de sistemas e otimização de rotinas[cite: 15, 17, 18].
-* [cite_start]🐾 **Sistema de Gerenciamento de Animais:** CRUD completo desenvolvido com **Spring Boot**[cite: 8].
-* [cite_start]🎓 **SimplyInvite:** Projeto acadêmico de gestão de alunos[cite: 20].
-* [cite_start]📊 **Análise de Dados:** Experiência com **Excel e Power BI** para controle administrativo[cite: 13, 22].
+🛠️ **Estágio em Engenharia de Software**  
+Auxílio na análise de sistemas, manutenção e otimização de rotinas.
+
+🐾 **Sistema de Gerenciamento de Animais**  
+CRUD completo desenvolvido com **Spring Boot**.
+
+🎓 **SimplyInvite**  
+Projeto acadêmico para gestão de alunos.
+
+📊 **Análise de Dados**  
+Uso de **Excel e Power BI** para controle administrativo.
 
 ---
 
 ## ⚙️ Atuação Técnica
 
-```typescript
+```ts
 const carlosCabral = {
-  idade: 22, // [cite: 2]
-  stack principal: ['Java', 'Spring Boot', 'Python'], // [cite: 8, 23]
-  ferramentas: ['Docker', 'Git', 'Linux', 'SQL'], // [cite: 8, 21]
-  localizacao: 'Recife - PE' // [cite: 3]
+  idade: 22,
+  stackPrincipal: ['Java', 'Spring Boot', 'Python'],
+  ferramentas: ['Docker', 'Git', 'Linux', 'SQL'],
+  localizacao: 'Recife - PE'
 };
-
-🤝 Vamos nos conectar? 📫 Aberto a colaborações e novos desafios em desenvolvimento de software!
