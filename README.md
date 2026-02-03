@@ -17,13 +17,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadunet0&show_icons=true&theme=dracula&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadunet0&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400)
-
----
-
 ## 🚀 Tecnologias e Habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
