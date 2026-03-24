@@ -1,5 +1,5 @@
 # Olá, eu sou Carlos Cabral 👋
-
+🎓 Pós-graduação Lato Sensu - Especialização, **Cibersegurança na CESAR School** (2026 – 2027) 
 🎓 Bacharel em **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
 💼 **Estagiário de Sistemas de Informação**  
 🚀 Desenvolvimento Backend com foco em **Java & Spring Boot**  
