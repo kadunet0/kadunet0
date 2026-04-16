@@ -1,11 +1,11 @@
-# Olá, eu sou Carlos Cabral 👋
-🎓 Pós-graduação - Especialização **Cibersegurança na CESAR School** (2026 – 2027) 
-🎓 Bacharel em **Sistemas de Informação** na UNINASSAU (2022 – 2025)  
-💼 **Estagiário de Sistemas de Informação**  
-🚀 Desenvolvimento Backend com foco em **Java & Spring Boot**  
-🌍 Inglês (CNA, 2016–2020) e entusiasta de metodologias ágeis  
+# Hi, I'm Carlos Cabral 👋
+🎓 Postgraduate - Specialization in Cybersecurity at CESAR School (2026 – 2027)
+🎓 Bachelor's degree in Information Systems at UNINASSAU (2022 – 2025)
+💼 Information Systems Intern
+🚀 Backend Developer focused on Java & Spring Boot
+🌍 English (CNA, 2016–2020) and Agile methodologies enthusiast
 
-> ⚡ *“Tecnologia existe para servir pessoas. Aprender continuamente é o que nos permite gerar impacto real.”*
+⚡ “Technology exists to serve people. Continuous learning is what enables us to create real impact.”
 
 ---
 
