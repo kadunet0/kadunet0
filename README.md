@@ -9,7 +9,7 @@
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-neto-94ab291b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadunet0)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 🚀 Technologies & Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -32,27 +32,27 @@
 
 ---
 
-## 📌 Experiência e Projetos
+## 📌 Experience & Projects
 
-### 💼 Estágio em Sistemas de Informação
-Atuação no apoio à análise de sistemas, manutenção de aplicações e otimização de rotinas, com foco em boas práticas de desenvolvimento.
+### 💼 Information Systems Internship
+Worked on system analysis support, application maintenance, and process optimization, focusing on development best practices.
 
 ### 🎓 SimplyInvite
-Sistema acadêmico de gestão de alunos, com autenticação e controle de acesso.  
+Academic student management system with authentication and access control.
 🔗 https://github.com/kadunet0/SimplyInvite
 
 ### 🏋️ FitnessApp
-Aplicação para gerenciamento de treinos e acompanhamento de atividades físicas.  
+Application for workout management and physical activity tracking. 
 🔗 https://github.com/kadunet0/FitnessApp
 
 ---
 
-## ⚙️ Atuação Técnica
+## ⚙️ Technical Profile
 
 ```ts
 const carlosCabral = {
-  idade: 22,
-  stackPrincipal: ['Java', 'Spring Boot', 'Python'],
-  ferramentas: ['Docker', 'Git', 'Linux', 'SQL'],
-  localizacao: 'Recife - PE'
+  age: 22,
+  mainStack: ['Java', 'Spring Boot', 'Python'],
+  tools: ['Docker', 'Git', 'Linux', 'SQL'],
+  location: 'Recife - PE, Brazil'
 };
